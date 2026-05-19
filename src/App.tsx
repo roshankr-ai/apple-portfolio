@@ -217,7 +217,10 @@ export default function App() {
           >
             GitHub
           </a>
-          <a href="#" className="glass-btn">
+          <a
+            href="https://drive.google.com/file/d/1N47GmUnLdnZETDwnkXW-s6QAMRyD2qkx/view?usp=drivesdk"
+            className="glass-btn"
+          >
             Download Resume
           </a>
         </div>
